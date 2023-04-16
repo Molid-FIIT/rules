@@ -1,0 +1,1 @@
+# Man-in-the-middle medzi sietovym serverom a aplikacnym serverom

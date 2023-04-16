@@ -1,0 +1,1 @@
+# Porusenie vysielasich regulacii koncovym zariadenim

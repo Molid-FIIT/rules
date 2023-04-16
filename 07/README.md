@@ -1,0 +1,1 @@
+# Service degradation + anomalie v datovych hodnotach
